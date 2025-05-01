@@ -1,4 +1,4 @@
-#Maze Game for the STM32F429 board
+**Maze Game for the STM32F429 board**
 
 The game is an adaptation of the classic labyrinth ball game, where the player manuevers a ball around a maze containing holes on a physical wooden board. This program puts the game on the STM32F429 board, allowing the player to control the movement of the ball with using the boards gyroscope, outputting to the board's LCD display.
 
